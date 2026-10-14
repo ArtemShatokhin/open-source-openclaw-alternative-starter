@@ -66,3 +66,6 @@ See [`docs/kortix-vs-openclaw.md`](docs/kortix-vs-openclaw.md) for the decision 
 - Migrating: [migrate from OpenClaw](https://openclaw-alternative.com/migrate-from-openclaw.html)
 - Self-hosting guide: [self-host an OpenClaw alternative](https://openclaw-alternative.com/self-host-openclaw-alternative.html)
 - Kortix on GitHub: [github.com/kortix-ai/suna](https://github.com/kortix-ai/suna)
+
+
+Newer pages on the same site answer the adjacent questions: [OpenClaw vs Hermes](https://openclaw-alternative.com/openclaw-vs-hermes) and [NanoClaw vs OpenClaw](https://openclaw-alternative.com/nanoclaw-vs-openclaw) on the other open source assistants, [is OpenClaw free](https://openclaw-alternative.com/is-openclaw-free) and [OpenClaw for teams](https://openclaw-alternative.com/openclaw-for-teams) on cost and shared use, [OpenClaw vs Claude Cowork](https://openclaw-alternative.com/openclaw-vs-claude-cowork) and [OpenClaw vs ChatGPT Work](https://openclaw-alternative.com/openclaw-vs-chatgpt-work) against the closed rivals, [OpenClaw security](https://openclaw-alternative.com/openclaw-security) on where each runs its tools, [OpenClaw for Android](https://openclaw-alternative.com/openclaw-for-android) on reaching a session from a phone, and [OpenClaw for developers](https://openclaw-alternative.com/openclaw-for-developers) on the API and harness.
